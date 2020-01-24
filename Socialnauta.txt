@@ -2,3 +2,4 @@ Hector,1,Architecture,Solutions Architect
 Diego,2,Finance,Student
 Sara,3,Production,Student
 Irene,4,Management,CEO
+Bigotitos,5,Rocketing,Rocket Scientist
