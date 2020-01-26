@@ -3,3 +3,6 @@ Diego,2,Finance,Student
 Sara,3,Production,Student
 Irene,4,Management,CEO
 Bigotitos,5,Rocketing,Rocket Scientist
+Juan,8,Architecture,Architect
+Mark,10,Finance,Director
+Susanne Boyle,15,Music,Singer
